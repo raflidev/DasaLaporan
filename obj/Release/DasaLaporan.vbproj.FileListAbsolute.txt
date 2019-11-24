@@ -1,0 +1,12 @@
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\bin\Release\DasaLaporan.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\bin\Release\DasaLaporan.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\bin\Release\DasaLaporan.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.Data.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.Input.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.Login.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.Resources.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.vbproj.GenerateResource.Cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Release\DasaLaporan.pdb

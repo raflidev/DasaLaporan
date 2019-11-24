@@ -1,0 +1,27 @@
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\DasaLaporan.Form1.resources
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\DasaLaporan.Resources.resources
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\DasaLaporan.vbproj.GenerateResource.Cache
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\bin\Debug\DasaLaporan.exe
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\bin\Debug\DasaLaporan.pdb
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\bin\Debug\DasaLaporan.xml
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\DasaLaporan.exe
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\DasaLaporan.xml
+C:\Users\Rafli\AppData\Local\Temporary Projects\DasaLaporan\obj\Debug\DasaLaporan.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\bin\Debug\DasaLaporan.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\bin\Debug\DasaLaporan.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\bin\Debug\DasaLaporan.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.Login.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.Resources.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.vbproj.GenerateResource.Cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.Input.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.MenuUtama.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.Laporan.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.Jurnal.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.keteranganjurnal.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.User.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\DasaLaporan\DasaLaporan\obj\Debug\DasaLaporan.UbahPassword.resources
